@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/pre-dexed/debug/classes-922c5d99df76ca8d5f3834f679b462a40db3d5ba.jar" />
+    </item>
+    <item
+        jar="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-abd0b25076e6712557ec4228320092afef161da4.jar" />
+    </item>
+    <item
+        jar="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/pre-dexed/debug/classes-f27ddb00abcddbfbee5a2dc30cb84f82dea26847.jar" />
+    </item>
+    <item
+        jar="/home/emival/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-52e59a4065f3d5fb4ff44f12ba112a0d24145e2f.jar" />
+    </item>
+    <item
+        jar="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/emival/AndroidStudioProjects/GameDataBase/app/build/intermediates/pre-dexed/debug/classes-e715d84df1a4042c7f2f828c99f6c91fe56d3238.jar" />
+    </item>
+
+</items>

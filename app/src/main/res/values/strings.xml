@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GameDataBase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="game_name">Nome</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Salvar</string>
+    <string name="title_activity_manter_game">Adicionar/Editar</string>
+</resources>
